@@ -11,7 +11,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("images/interior.jpg") no-repeat;
+    background: url("interior.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
